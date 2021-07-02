@@ -1,19 +1,6 @@
-# hy-vue-temp
+## 本项目基于[这个项目](https://github.com/coderwhy/hy-vue-temp)
+> 这是一个vue的空模板，配置了多个vue资源
 
-## Project setup
-```
-npm install
-```
+该项目是[beow](https://github.com/graylogo/beow_cli)的vue模板
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+更多信息，敬请期待！

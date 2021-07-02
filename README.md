@@ -3,4 +3,7 @@
 
 该项目是[beow](https://github.com/graylogo/beow_cli)的vue模板
 
+[github地址](https://github.com/graylogo/hy-vue-temp)
+[gitee地址](https://gitee.com/graylogo/vue-temp)
+
 更多信息，敬请期待！
